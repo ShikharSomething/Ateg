@@ -1,6 +1,6 @@
 # Ateg 
 
-Ateg is an intelligent system that automatically generates gaming highlight reels by detecting kill events in gameplay footage. Using computer vision powered by YOLOv8, Ateg creates professional-quality montages with smooth transitions and background music - all with minimal human intervention.
+ATEG -- Advance Text-driven Editor for Graphics is an intelligent system that automatically generates gaming highlight reels by detecting kill events in gameplay footage. Using computer vision powered by YOLOv8, Ateg creates professional-quality montages with smooth transitions and background music - all with minimal human intervention.
 
 ## Features
 
